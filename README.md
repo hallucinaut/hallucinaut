@@ -1,4 +1,4 @@
-# @hallucinaut
+# Hallucinaut
 
 AI Developer | MLOps | Security | Cloud
 
